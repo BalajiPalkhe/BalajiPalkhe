@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BalajiPalkhe](https://github.com/BalajiPalkhe)
 
-- 📝 I regularly write articles on [https://trenissue.blogspot.com/](https://trenissue.blogspot.com/)
+- 📝 I write articles on [https://trenissue.blogspot.com/](https://trenissue.blogspot.com/)
 
 - 💬 Ask me about **Core Java**
 
